@@ -1,4 +1,4 @@
-
+baseURL = "seanf9.github.io"
 languageCode = "en-us"
 title = "Site"
 theme = "minimal"
