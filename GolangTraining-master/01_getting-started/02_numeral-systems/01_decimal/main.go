@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(42)
+	//print the number 24
+	fmt.Println(24)
 }
